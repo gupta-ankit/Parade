@@ -1,2 +1,4 @@
 lib/*.jar
 build
+/nbproject/private/
+/dist/
